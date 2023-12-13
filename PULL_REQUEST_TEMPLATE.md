@@ -1,1 +1,2 @@
-BiZOOPe organization default PR template :tada:
+* [ ] このPRに関係のないファイル、修正はありませんか？
+* [ ] 変更ファイルに（自動フォーマットなどによる）余分なインデント、改行、デバッグ出力などはありませんか？
