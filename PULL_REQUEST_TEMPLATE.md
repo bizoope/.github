@@ -5,3 +5,5 @@
 -----
 
 Trello: https://trello.com/c/XXXXXXXXX
+
+関連PR: https://github.com/bizoope/XXXXX/pull/XXX
